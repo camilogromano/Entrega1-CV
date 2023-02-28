@@ -1,0 +1,33 @@
+
+        <div class="Datos" id="presentacion">
+            <h3>Presentación</h3>
+            <p id="mi_presentacion">Soy entusiasta y perfeccionista.
+            Me identifico como una persona participativa y me gusta el trabajo en equipo.
+            Siempre intento que tanto los logros como los errores sean un aprendizaje. 
+            Busco la motivación en todo lo que hago y disfruto de dar lo mejor.</p>
+        </div>
+        <div class="Datos" id="datos">
+            <h3>Datos Personales</h3>
+            <li>Fecha de Nacimiento: 23 de febrero de 1995</li>
+            <li>Correo Electrónico: lucylam@correo.com.ar</li>
+            <li>Teléfono: +54-221-4873544</li>
+            <li>Dirección: calle 45 #2345</li> 
+            <li>Localidad: La Plata, Pcia. de Buenos Aires</li>    
+        </div> 
+        <div class="Datos" id="formacion">
+            <h3>Formación</h3>
+            <li>Estudios Secundarios: Bachiller en Ciencias Sociales. EEM N° 55 de La Plata.</li>
+            <li>Título de Grado: Profesora en Educación Musical, Facultad de Bellas Artes.</li>   
+            <li>Título de Posgrado: Doctora en Composición.</li>      
+        </div>
+        
+        <div class="Datos" id="experiencia">
+            <h3>Experiencia Laboral</h3>
+            <dl>
+                <dt>En concierto:</dt><dd>He realizado presentaciones en diferentes teatros y bares de la ciudad.<br>
+                Entre ellos el Coliseo y el teatro del Lago</dd>
+                <dt>Como docente:</dt><dd>Actualmente me desempeño como profesora particular de composición orquestal</dd>
+                <dt>Otras experiencias:</dt><dd>Durante mis estudios me desempeñé como empleada de comercio</dd>
+            </dl>
+           
+        </div>

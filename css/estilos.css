@@ -1,0 +1,105 @@
+
+header {
+    background-color: rgb(128, 69, 159);
+    padding-top: 20px;
+    margin: auto;
+}
+ 
+section {
+
+    background: #E4C3E3;
+    background: -moz-linear-gradient(top, #E4C3E3 0%, #FDFCFD 100%);
+    background: -webkit-linear-gradient(top, #E4C3E3 0%, #FDFCFD 100%);
+    background: linear-gradient(to bottom, #E4C3E3 0%, #FDFCFD 100%);
+    opacity: 0.8;
+    width: 800px;
+    border: 1px solid rgb(128, 69, 159);
+    padding: 20px;
+    margin: auto;
+}
+
+div {
+    text-align:center;
+}
+
+label {
+    font-family: Georgia;
+    font-size:large;
+}
+
+h1 {
+    font-family:Georgia;
+    font-size: 48px;
+    letter-spacing:2.2px;
+    word-spacing:0.6px;
+    color:rgb(65, 8, 81);
+    font-weight:400;
+    text-decoration:rgb(68, 68, 68);
+    font-style:normal;
+    font-variant:small-caps;
+    text-transform:none
+
+}
+h2 {
+    font-family:Georgia;
+    font-size:32px;
+    letter-spacing:1.2px;
+    word-spacing: 0.6px;
+    color:rgb(65, 8, 81);
+    font-weight:400;
+    text-decoration:rgb(68, 68, 68);
+    font-style:normal;
+    
+}
+h3 {
+    font-family:Georgia;
+    font-size: 24px;
+    letter-spacing:2.2px;
+    word-spacing:0.6px;
+    color:rgb(65, 8, 81);
+    font-weight:400;
+    text-decoration:rgb(68, 68, 68);
+    font-style:normal;
+    font-variant:small-caps;
+    text-transform:none
+}
+p,dl,ul,li {
+    font-family: Georgia;
+    font-size:large;
+    text-align:center;
+}
+footer {
+    text-align:center;
+    background-color: rgb(211, 143, 248);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 10%;
+    margin: auto;
+}
+
+#mi_presentacion {
+    font-family: 'Pacifico', cursive;
+    font-size:large;
+    text-align:center;
+}
+
+button {
+    background-color: rgb(239, 211, 252);
+    font-size: xx-large;
+    margin: auto;
+    border: transparent;
+}
+
+body {
+    background-color: rgb(239, 211, 252);
+    text-align:center;
+    font-size: 36px;
+}
+nav {
+    background-color: rgb(239, 211, 252);
+    text-align:center;
+    font-size: 28px; 
+    padding: 0%;
+    margin: auto;
+    
+}
