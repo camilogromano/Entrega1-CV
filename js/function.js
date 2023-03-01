@@ -7,7 +7,7 @@
 
 document.getElementById("usuario").onclick = function () {
 console.log("capturamos el evento click del botón usuario");
-document.getElementById("subtitulo").innerHTML = "Con Iniciativa y Dedicación";
+document.getElementById("subtitulo").innerHTML = "Cantante Profesional";
 }
 
 document.getElementById("direccion").onclick = function () {
@@ -22,6 +22,6 @@ document.getElementById("subtitulo").innerHTML = "Con experiencia en diferentes 
 
 document.getElementById("trabajo").onclick = function () {
 console.log("capturamos el evento click del botón usuario");
-document.getElementById("subtitulo").innerHTML = "Cantante Profesional";
+document.getElementById("subtitulo").innerHTML = "Profesora de Música";
 }
 
